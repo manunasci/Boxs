@@ -1,0 +1,16 @@
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.exe
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.deps.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.runtimeconfig.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.runtimeconfig.dev.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\ref\Boxs.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\bin\Debug\net5.0\Boxs.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.csproj.AssemblyReference.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.AssemblyInfoInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.AssemblyInfo.cs
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\ref\Boxs.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Quarto programa\Boxs\obj\Debug\net5.0\Boxs.genruntimeconfig.cache
